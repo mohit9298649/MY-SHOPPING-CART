@@ -1,4 +1,4 @@
 # MY-SHOPPING-CART
 my first python project.
 <br>
-Author - Mohit Gurjar
+Author - Mohit Gurjar "babu"
